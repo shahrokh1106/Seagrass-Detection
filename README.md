@@ -17,6 +17,9 @@ The main goal was to train a model to detect seagrass regions, resulting in the 
   o	validation set = 7,201 patches<br />
   o	test set = 7,201 patches<br />
 
+  ![dataset-sample](https://github.com/shahrokh1106/Seagrass-Detection/assets/44213732/e957bf15-d9e8-4b04-a045-ec3117068ae6)
+
+
 
 
 
